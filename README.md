@@ -1,97 +1,145 @@
-# pizza-sales-analysis-excel
-Interactive Pizza Sales Analytics Dashboard built using Excel, Power Pivot and DAX
-Just published my latest **Pizza Sales Analytics Dashboard** built using **Excel, Power Pivot, DAX, and ChatGPT**.
+#  California Burrito Data Analysis — Microsoft Excel
 
-The project focuses on analyzing sales trends, customer ordering behavior, category performance, and product-level insights through an interactive dashboard.
+## 📌 Project Overview
 
----
+The **California Burrito Data Analysis Project** is an end-to-end data analytics project developed using **Microsoft Excel** to analyze sales, restaurant performance, customer behavior, and ratings.
 
-## 📊 Key Business Insights
+The project demonstrates the complete analytics workflow — from **ETL and data cleaning to data modelling, DAX calculations, KPI development, and interactive dashboard creation**.
 
-### 📈 Monthly Sales Performance
+The analysis is organized into four key business dashboards:
 
-* Revenue remained stable throughout the year, ranging between **$64K–$72K** per month.
-* **July** recorded the highest sales at **$72.6K**, making it the strongest-performing month.
-* Other high-performing months included:
+*  **Sales Dashboard** — Analyze sales performance and revenue trends.
+*  **Restaurant Dashboard** — Evaluate restaurant-level performance and operational metrics.
+*  **Customer Dashboard** — Understand customer behavior and customer-level performance.
+*  **Rating Dashboard** — Analyze customer ratings and restaurant/service performance.
 
-  * May (~$71.4K)
-  * March (~$70.4K)
-  * November (~$70.4K)
-* Lower sales were observed during:
-
-  * September (~$64.2K)
-  * October (~$64.0K)
-  * February (~$65.2K)
-* The business showed strong mid-year performance, especially between **May and July**, followed by a seasonal slowdown during September and October.
+A **Data Modelling Diagram** was also created to demonstrate the relationships between the underlying datasets and the analytical model.
 
 ---
 
-### 🍕 Sales Distribution by Pizza Category
+##  Project Objective
 
-* Revenue contribution was well balanced across all pizza categories:
+The primary objective of this project is to transform raw California Burrito business data into a structured analytical model and develop interactive dashboards that can support **data-driven business decision-making**.
 
-  * Classic → **26.91%**
-  * Supreme → **25.46%**
-  * Chicken → **23.96%**
-  * Veggie → **23.68%**
-* The **Classic category** emerged as the top revenue contributor, indicating strong customer preference for traditional pizzas.
-* Supreme pizzas also showed strong performance, suggesting customers value premium toppings and variety.
-* The balanced category distribution reflects:
+The project focuses on answering business questions such as:
 
-  * Diverse customer preferences
-  * Strong menu performance
-  * Reduced dependency on a single product category
+* How is overall sales performance trending?
+* Which restaurants are performing better?
+* What are the key customer behavior patterns?
+* How do customer ratings vary across restaurants?
+* Which KPIs are important for monitoring business performance?
+* How can raw operational data be transformed into meaningful business insights?
 
----
-
-### ⏰ Hourly Transaction Analysis
-
-* Sales activity followed a clear **bimodal demand pattern** with two major peak periods:
-
-  * **Lunch Peak:** 12 PM – 1 PM
-  * **Dinner Peak:** 5 PM – 7 PM
-* The highest transaction count occurred at **12 PM (~2,520 orders)**.
-* Evening demand peaked again at **6 PM (~2,399 orders)**.
-* A noticeable slowdown was observed between **2 PM – 3 PM**, representing the lowest activity during business hours.
-* Transaction volume declined significantly after **9 PM**, with minimal activity during early morning hours.
+The project also aims to demonstrate practical knowledge of **Excel-based data analytics and business intelligence workflows**.
 
 ---
 
-### 📦 Revenue Analysis by Pizza Size
+#  Lessons Learned
 
-* Large pizzas dominated revenue contribution:
+##  Technical Skills
 
-  * Large (L) → **46%**
-  * Medium (M) → **30%**
-  * Small (S) → **22%**
-  * XL & XXL combined → **~2%**
-* Large and Medium pizzas together contributed approximately **76%** of total revenue.
-* The analysis highlights strong customer preference for standard serving sizes offering better value and portion balance.
-* XL and XXL pizzas generated minimal revenue, indicating niche demand for oversized products.
+This project helped strengthen several practical data analytics skills:
+
+### ETL & Data Preparation
+
+* Understanding the importance of data quality before analysis
+* Cleaning and transforming raw datasets
+* Preparing structured datasets for analytics
+* Following an end-to-end ETL workflow
+
+### Data Modelling
+
+* Understanding fact and dimension tables
+* Creating relationships between datasets
+* Building a structured analytical data model
+* Understanding how data modelling impacts reporting and dashboard performance
+
+### DAX
+
+* Creating calculated measures
+* Applying business logic through DAX
+* Developing reusable KPIs
+* Understanding the difference between raw columns and calculated measures
+
+### Dashboard Development
+
+* Designing business-focused dashboards
+* Selecting appropriate visualizations
+* Creating KPI-driven reports
+* Presenting complex data in an easy-to-understand format
+* Building multiple dashboards for different business functions
+
+### Business Analysis
+
+* Converting business questions into analytical requirements
+* Identifying relevant KPIs
+* Comparing performance across different business dimensions
+* Translating data into actionable business insights
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Soft Skills
 
-* Microsoft Excel
-* Power Pivot
-* DAX
-* Pivot Tables & Charts
-* Interactive Slicers
-* Dashboard Design
-* ChatGPT for analytical storytelling
+Beyond technical skills, the project helped develop important professional skills:
+
+### Problem Solving
+
+Breaking a broad business problem into smaller analytical questions and solving them systematically.
+
+### Analytical Thinking
+
+Looking beyond individual numbers to understand trends, relationships, and business performance.
+
+### Business Communication
+
+Presenting analytical results through dashboards that can be understood by both technical and non-technical stakeholders.
+
+### Attention to Detail
+
+Ensuring data quality, relationships, calculations, and dashboard metrics were consistent.
+
+### Storytelling with Data
+
+Learning how to organize KPIs and visualizations so that the dashboard communicates a clear business story.
+
+### Project Ownership
+
+Managing the project from raw data preparation through modelling, analysis, visualization, and final reporting.
 
 ---
 
-This project helped strengthen my skills in:
-✔ Data Modeling
-✔ Business Analysis
-✔ Dashboard Development
-✔ KPI Reporting
-✔ Data Visualization
+---
 
-## 👤 Author
+#  Key Takeaways
 
-Rohan Gopashetti
+This project demonstrates how **Microsoft Excel can be used as an end-to-end data analytics and business intelligence solution**.
 
-#Excel #DataAnalytics #Dashboard #PowerPivot #DAX #BusinessIntelligence #DataVisualization #Analytics #ExcelDashboard #LinkedInProjects
+Rather than simply creating charts from raw data, the project follows a structured approach:
+
+**Data → ETL → Data Model → DAX → KPIs → Visualization → Business Insights**
+
+The project provided practical experience in transforming raw business data into a structured analytical model and then converting that model into interactive dashboards designed around different business functions.
+
+---
+
+#  Conclusion
+
+The **California Burrito Data Analysis Project** demonstrates my ability to work through the complete data analytics lifecycle using Microsoft Excel.
+
+From **ETL and data cleaning** to **data modelling, DAX calculations, KPI development, and dashboard creation**, the project focuses on turning raw data into meaningful business information.
+
+The four dashboards — **Sales, Restaurant, Customer, and Rating** — provide different perspectives of the business and demonstrate how analytical requirements can be translated into focused reporting solutions.
+
+Overall, this project strengthened my technical capabilities in **Excel, Power Pivot, DAX, ETL, data modelling, and dashboard development**, while also improving my ability to approach business problems analytically and communicate insights effectively.
+
+---
+
+##  Skills Demonstrated
+
+**Microsoft Excel | Power Pivot | DAX | ETL | Data Cleaning | Data Transformation | Data Modelling | KPI Development | Dashboard Development | Data Visualization | Business Analysis | Data Storytelling**
+
+---
+
+##  Portfolio Project
+
+This project is part of my **Data Analytics Portfolio**, demonstrating my practical experience in transforming raw business data into structured analytical solutions and business-focused dashboards.
