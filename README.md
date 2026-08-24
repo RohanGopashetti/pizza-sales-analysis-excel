@@ -141,3 +141,9 @@ Overall, this project strengthened my technical capabilities in **Excel, Power P
 ##  Portfolio Project
 
 This project is part of my **Data Analytics Portfolio**, demonstrating my practical experience in transforming raw business data into structured analytical solutions and business-focused dashboards.
+
+---
+
+##  Report Link
+
+California Burrito Restaurant Performance Analysis Report
