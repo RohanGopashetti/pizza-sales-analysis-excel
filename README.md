@@ -108,8 +108,6 @@ Managing the project from raw data preparation through modelling, analysis, visu
 
 ---
 
----
-
 #  Key Takeaways
 
 This project demonstrates how **Microsoft Excel can be used as an end-to-end data analytics and business intelligence solution**.
